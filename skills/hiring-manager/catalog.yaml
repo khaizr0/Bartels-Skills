@@ -1,0 +1,20 @@
+title: Hiring Manager
+collection: official
+owner: hr
+authors:
+  - name: Kasper
+    team: HR
+    role: creator
+maintainers:
+  - name: Kasper
+    team: HR
+version: 1.0.0
+risk_tier: 3
+tags:
+  - hiring
+  - screening
+  - hr
+  - candidates
+status: published
+created: 2026-09-03
+tested_models: []

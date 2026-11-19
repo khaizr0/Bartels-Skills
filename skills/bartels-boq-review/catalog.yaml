@@ -1,0 +1,19 @@
+title: BARTELS BOQ Review
+collection: official
+owner: operations
+authors:
+  - name: Kasper
+    team: Operations
+    role: creator
+maintainers:
+  - name: Kasper
+    team: Operations
+version: 1.0.0
+risk_tier: 2
+tags:
+  - boq
+  - construction
+  - cost
+  - procurement
+status: published
+tested_models: []

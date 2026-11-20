@@ -1,8 +1,15 @@
 ---
-name: "bartels-boq-review"
-description: "Review construction / fit-out BOQs (bill of quantities), contractor quotations, cost estimates and variation orders for BARTELS sites, benchmarking every line against the library of past BARTELS BOQs. Use whenever Kasper shares a BOQ, a contractor price, a fit-out budget, a cost breakdown per m², a variation/change order, or asks 'is this price fair', 'compare these contractors', or 'what did we pay last time', even if he does not say 'BOQ'. Also use to ingest a settled/final BOQ into the library. Kitchen equipment lines inside a BOQ hand off to kitchen-hardware-review."
+name: bartels-boq-review
+description: >-
+  Review construction / fit-out BOQs (bill of quantities), contractor
+  quotations, cost estimates and variation orders for BARTELS sites,
+  benchmarking every line against the library of past BARTELS BOQs. Use whenever
+  Kasper shares a BOQ, a contractor price, a fit-out budget, a cost breakdown
+  per m², a variation/change order, or asks 'is this price fair', 'compare these
+  contractors', or 'what did we pay last time', even if he does not say 'BOQ'.
+  Also use to ingest a settled/final BOQ into the library. Kitchen equipment
+  lines inside a BOQ hand off to kitchen-hardware-review.
 ---
-
 # BARTELS BOQ Review
 
 Purpose: stop BARTELS overpaying for fit-outs. Contractors in Vietnam and Thailand quote inconsistent scope, pad quantities, hide prelims and provisional sums, and reprice the same item differently per site. The only reliable defence is the chain's own history: every past BARTELS BOQ is a benchmark. This skill forces every new BOQ through that history before Kasper approves anything.

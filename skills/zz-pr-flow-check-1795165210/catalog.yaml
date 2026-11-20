@@ -1,0 +1,13 @@
+title: PR Flow Check
+collection: lab
+owner: qa
+authors:
+  - name: QA
+maintainers: []
+version: 0.1.0
+risk_tier: 1
+tags:
+  - test
+status: published
+created: 2026-11-20T09:00:10.513Z
+tested_models: []
